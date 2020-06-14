@@ -1,8 +1,8 @@
 from selenium_class import Driver
 import time
 
-# id = input("ID : ")
-# pw = input("PW : ")
+id = input("ID : ")
+pw = input("PW : ")
 
 driver = Driver()
 
